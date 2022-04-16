@@ -16,6 +16,8 @@ iv. Delete a node at nth position
 
 v. Reverse a linked list - Iterative method 
 
+![reverse](https://user-images.githubusercontent.com/71040750/163692730-14604f01-7056-4dde-9d3a-f71d874a199d.png)
+
 vi. Print elements of a linked list in forward and reverse order using recursion 
 
 vii. Reverse a linked list using recursion
