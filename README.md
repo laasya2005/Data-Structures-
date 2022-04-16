@@ -25,3 +25,5 @@ vii. Reverse a linked list using recursion
 4. Queue 
 5. Tree
 6. Graphs
+
+Reference: https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
