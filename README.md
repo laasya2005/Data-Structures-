@@ -132,6 +132,19 @@ III. Friend function : Another class can have access to private class members us
   
                   vector <int> :: iterator it;
   
+  -----------------------------------------------------------------------------------------------
+  1. Pair - combination of two different type of datatypes
+              
+         int main(){
+                         
+              pair < int, string > p;
+              p= {2,"abc"}; // making pairs
+              cout<< p.first << " " << p.second << endl; // accessing elements in pair 
+                  
+                    } // output: 2 abc
+  
+  2. 
+  
   
   
   
@@ -144,14 +157,6 @@ III. Friend function : Another class can have access to private class members us
   
   
   
- 
-  
-  
-
-
-
-
-
 
 
 
