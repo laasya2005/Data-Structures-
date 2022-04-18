@@ -30,7 +30,7 @@ vii. Reverse a linked list using recursion
 
 Reference: https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 
-## Basics of C++
+# Basics of C++
 
 1. cout<< - To print , cin>> - To take input from console
 2. Syntax for variable: Datatype variableName. Ex: String characterName = "john";
@@ -53,9 +53,100 @@ Reference: https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcB
                     int scores[]{100,90,97}; // array
                     for (auto score: scores)
                         cout<< score <<endl; // 100,90,97
- 8. Functions: 
+ 8. Functions: The functions are defined outside main ( Function Declaration )
+  
+  
+              int function_name(int a)
+                 {
+  
+                       statements;
+                       return 0;
+                  }
+  
+I. Function calling: function_name(1);
+  
+II. Function Prototypes: function that doesn't need body 
+   Ex: int function_name(); // prototype
+  
+III. In function defination - PARAMETERS (formal parameters)
+  
+     In function call - ARGUMENTS (actual parameters) 
+  
+IV. Parameters in the function are passed in two ways PASS BY VALUE (make a copy) and PASS BY REFERENCE (foraml parameters will be alias of actual parameters) i.e &a and &b is equivalent to x and y.
+
+V. OVERLOADING FUNCTION: Same function name--> with different datatype parameters
+
+9. Pointers: stores the address of a variable 
+  Syntax: datatype *pointer_name { nullptr } // pointer is pointing no where i.e initialized to zero
+  
+  Ex:
+  
+             int *int_ptr{}; // uninitialized pointers contain garbage data
+  
+  I. POINTER --> Hold address
+     Dereferencing Pointer (it is done by using dot operator or arrow operator) --> hold value
+  
+  II. The new keyword is used to allocate an integer on heap memory for storage ( int_ptr = new int ; )
+       ( delete int_ptr ) // frees the allocated storage
+  
+10. Object Oriented Programming: uses classes and objects
+  
+               class class_name // put classes infront of main
+               {
+                   // variables
+                   // declaration
+                   // method
+                };
+               int main() // put objects in main
+               {
+  
+                // objects
+  
+               }
+ I. Constructors: Default, parameterized, copy
+  
+copy constructor- shallow copying ( Problem, pointer is copied not what it points to (value) ) and deep copying ( solution , we create a copy of pointer to data)
+   
+II. Struct VS Classes 
+  
+i. The members of struct are public by default
+  
+ii. The members of class are private by default
+  
+III. Friend function : Another class can have access to private class members using friend keyword
   
 
+# Standard Template Library (STL)
+
+##  1. Containers: 
+  containers are the data structure which are pre implemented in STL
+  
+  Sequential: vectors, stack, queue, pair
+  
+  ordered: maps, multimaps, set, multiset
+  
+  unordered: unordered map, unordered set
+   
+##  2. Iterators:
+  Iterators are Similar to pointers and Iterators point to memory address of containers
+  
+                  vector <int> :: iterator it;
+  
+  
+  
+  
+  Reference: https://www.youtube.com/watch?v=R5BEcvTVZj0&list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
 
 
 
