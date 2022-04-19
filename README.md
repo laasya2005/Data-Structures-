@@ -143,7 +143,30 @@ III. Friend function : Another class can have access to private class members us
                   
                     } // output: 2 abc
   
-  2. 
+  2. Pair in array: 
+  
+             int a[] = {1,2,3};
+             int b[] = {2,3,4};
+             pair <int,int> p_array[3]; // 3 arrays
+             p_array[0] = {1,2};
+             p_array[1] = {2,3};
+             p_array[2] = {3,4};
+             swap(p_array[0], p_array[2]);
+             for(int i=0; i<3; ++i)
+                {
+                cout<< p_array[i].first << " " << p_array[i].second;
+                 }  // o/p: 3,4
+                            2,3
+                            1,2
+-------------------------------------------------------------------------------------------------
+ 
+ 1. Vector: vector<int> v;
+ 2. vectors in pair: vector<pair<int,int>> v ={{1,2},{2,3},{3,4}};
+ 3. Array of vectors (kind of 2D Array): vector<int> v[10]; // 10 vectors of size zero
+ 4. vector of vector: vector<vector<int>>v;
+  
+ -------------------------------------------------------------------------------------------------
+  
   
   
   
