@@ -202,7 +202,7 @@ III. Friend function : Another class can have access to private class members us
   
                 Introsort: Quick sort + Heap sort + Insertion sort  
   
-   sort (start pointer of sorting, end+1 pointer of sorting, comparator function) //The sorting makes use of inbuilt sort algorithm
+           sort (start pointer of sorting, end+1 pointer of sorting, comparator function) //The sorting makes use of inbuilt sort algorithm
   
                   
   
