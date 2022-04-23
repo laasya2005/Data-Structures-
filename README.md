@@ -127,11 +127,29 @@ III. Friend function : Another class can have access to private class members us
   
   unordered: unordered map, unordered set
    
-##  2. Iterators:
-  Iterators are Similar to pointers and Iterators point to memory address of containers
+##  2. Iterators: vector, pair, maps (ordered map, unordered map, Multimaps), Sets
+  Iterators are Similar to pointers and Iterators point to memory address of containers, Iterators are used to access value of container
   
-                  vector <int> :: iterator it;
+                  vector <int> :: iterator it; // iterator pointing to a vector
   
+                  vector < pair <int,int> > :: iterator it; // iterator pointing to a vector 
+  
+                  map <int,string> m; // ordered map, stores Key: Value, where order of key matters
+  
+                  unordered_map <int,string> m; // unodered map, where keys are in unsorted order
+                
+                  multimap <int, int> m; // Multimaps, where duplication of keys are allowed
+            
+                  set <string> s; // stores key, SET stores the unique elements in sorted order
+  
+  
+     ##### Nesting in STL : Maps and sets
+  
+                 map < pair<int,int> , int > m; // where pair is key and int is value 
+                  
+                 map < set<int>, int > m; // where set is key and int is value
+                 
+
   -----------------------------------------------------------------------------------------------
   1. Pair - combination of two different type of datatypes
               
@@ -159,13 +177,37 @@ III. Friend function : Another class can have access to private class members us
                             2,3
                             1,2
 -------------------------------------------------------------------------------------------------
- 
+ ### Nesting in vectors
+                                                                   
  1. Vector: vector<int> v; // Empty vector intialization
  2. vectors in pair: vector<pair<int,int>> v ={{1,2},{2,3},{3,4}};
  3. Array of vectors (kind of 2D Array): vector<int> v[10]; // 10 vectors of size zero
- 4. vector of vector: vector<vector<int>>v;
+ 4. vector of vector: vector<vector<int>>v; // we push back values of vector by creating anothe vector
   
  -------------------------------------------------------------------------------------------------
+  
+  ### Stack: 
+  
+          stack <int> s;
+  
+  i) Balanced parenthesis check
+  
+  ii) Finding next greater element
+  
+  ### Queue: 
+  
+         queue <string> q;
+  
+  ### Sorting: 
+  
+                Introsort: Quick sort + Heap sort + Insertion sort  
+  
+   sort (start pointer of sorting, end+1 pointer of sorting, comparator function) //The sorting makes use of inbuilt sort algorithm
+  
+                  
+  
+
+  
   
   
   
