@@ -134,7 +134,7 @@ III. Friend function : Another class can have access to private class members us
   
                   vector < pair <int,int> > :: iterator it; // iterator pointing to a vector 
   
-                  map <int,string> m; // ordered map, stores Key: Value, where order of key matters
+                  map <int,string> m; // ordered map, stores Key: Value, where order of key matters and no duplicate keys in map
   
                   unordered_map <int,string> m; // unodered map, where keys are in unsorted order
                 
