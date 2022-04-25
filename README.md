@@ -130,17 +130,19 @@ III. Friend function : Another class can have access to private class members us
 ##  2. Iterators: vector, pair, maps (ordered map, unordered map, Multimaps), Sets
   Iterators are Similar to pointers and Iterators point to memory address of containers, Iterators are used to access value of container
   
-                  vector <int> :: iterator it; // iterator pointing to a vector
+                  vector <int> :: iterator it; // Iterator pointing to a vector
   
-                  vector < pair <int,int> > :: iterator it; // iterator pointing to a vector 
+                  vector < pair <int,int> > :: iterator it; // Iterator pointing to a vector 
   
-                  map <int,string> m; // ordered map, stores Key: Value, where order of key matters and no duplicate keys in map
+                  map <int,string> m; // Ordered map, stores Key: Value, where keys are stored in sorted order and no duplicate keys (unique keys) in map (ordered maps internally performs comparision). O(log(n))
   
-                  unordered_map <int,string> m; // unodered map, where keys are in unsorted order
+                  unordered_map <int,string> m; // Unodered map, where keys are in unsorted order, makes use of valid keys datatype (unordered maps internally performs hashing), unordered maps decreases the time complexity than compared with ordered maps. O(1)
                 
-                  multimap <int, int> m; // Multimaps, where duplication of keys are allowed
-            
-                  set <string> s; // stores key, SET stores the unique elements in sorted order
+                  multimap <int, int> m; // Multimaps, where duplication of keys are allowed. O(log(n))
+  
+                  set <string> s; // Stores key, ordered set stores the unique elements in sorted order. O(log(n))
+  
+                  unordered_set <string> s; // Unordered set is used to check the presence of the element in the set, order of elements doesn't matter. O(1)
   
   
      ##### Nesting in STL : Maps and sets
@@ -204,7 +206,20 @@ III. Friend function : Another class can have access to private class members us
   
            sort (start pointer of sorting, end+1 pointer of sorting, comparator function) //The sorting makes use of inbuilt sort algorithm
   
-                  
+  -------------------------------------------------------------------------------------------------------------------------------------
+  ### Programs on STL
+  
+  1. Implementation of Vector
+  
+  2. Implementation of maps
+  
+  3. Question related to maps
+  
+  4. Implementation of sets
+  
+  5. Question based on unordered set
+                
+  
   
 
   
