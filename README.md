@@ -143,6 +143,8 @@ III. Friend function : Another class can have access to private class members us
                   set <string> s; // Stores key, ordered set stores the unique elements in sorted order. O(log(n))
   
                   unordered_set <string> s; // Unordered set is used to check the presence of the element in the set, order of elements doesn't matter. O(1)
+             
+                  multiset <string> s; // Multiset, where duplication of keys are allowed. O(log(n))
   
   
      ##### Nesting in STL : Maps and sets
@@ -218,6 +220,9 @@ III. Friend function : Another class can have access to private class members us
   4. Implementation of sets
   
   5. Question based on unordered set
+  
+  6. Nested map
+
                 
   
   
