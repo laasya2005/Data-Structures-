@@ -222,16 +222,12 @@ III. Friend function : Another class can have access to private class members us
   5. Question based on unordered set
   
   6. Nested map
-
-                
   
+  7. STACK - Balanced parenthesis check
   
-
+  8. STACK - Finding next greater element
   
-  
-  
-  
-  
+  9. Implementation of sorting 
   
   Reference: https://www.youtube.com/watch?v=R5BEcvTVZj0&list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn 
   
