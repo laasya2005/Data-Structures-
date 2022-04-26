@@ -190,7 +190,7 @@ III. Friend function : Another class can have access to private class members us
   
  -------------------------------------------------------------------------------------------------
   
-  ### Stack: 
+  ### Stack: LIFO
   
           stack <int> s;
   
@@ -198,7 +198,7 @@ III. Friend function : Another class can have access to private class members us
   
   ii) Finding next greater element
   
-  ### Queue: 
+  ### Queue: FIFO
   
          queue <string> q;
   
