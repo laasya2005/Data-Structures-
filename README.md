@@ -22,7 +22,10 @@ vi. Print elements of a linked list in forward and reverse order using recursion
 
 vii. Reverse a linked list using recursion
 
-2. Doubly Linked List
+2. Doubly Linked List  
+
+![dll](https://user-images.githubusercontent.com/71040750/165485910-f6b11f0a-020b-4f44-94f1-831a7834dc23.png)
+
 3. Stack
 4. Queue 
 5. Tree
