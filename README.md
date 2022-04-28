@@ -40,13 +40,15 @@ ii. Linked List implementation of stacks
 ![ssss](https://user-images.githubusercontent.com/71040750/165742592-c276c88d-3f79-4e1c-8e00-e4c43b9d0b62.png)
 
 
-iii. Reverse a string or linked list using stack.
+iii. Reverse a string using stack.
 
-iv. Check for balanced parentheses using stack
+vi. Reverse a string using Linked list
 
-v. Evaluation of Prefix and Postfix expressions using stack
+v. Check for balanced parentheses using stack
 
-vi. Infix to Postfix using stack
+vi. Evaluation of Prefix and Postfix expressions using stack
+
+vii. Infix to Postfix using stack
 
 4. Queue 
 5. Tree
