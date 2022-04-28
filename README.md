@@ -4,6 +4,23 @@
 
 1. Linked List
 
+2. Doubly Linked List 
+
+3. Stack
+
+4. Queue 
+
+5. Tree
+
+6. Graphs
+
+![ds](https://user-images.githubusercontent.com/71040750/165831806-a04ab594-070c-4bfc-a277-787a58f270cd.png)
+
+![WhatsApp Image 2022-04-29 at 1 08 49 AM](https://user-images.githubusercontent.com/71040750/165832440-8f715773-82d4-44ef-83c6-894dd5ef6db1.jpeg)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+1. Linked List:
+
 ![ll](https://user-images.githubusercontent.com/71040750/162908451-413f2217-4318-41a0-aed6-b4f29ea0507e.png) 
 
 i. Implementation of Linked List
@@ -22,11 +39,11 @@ vi. Print elements of a linked list in forward and reverse order using recursion
 
 vii. Reverse a linked list using recursion
 
-2. Doubly Linked List  
+2. Doubly Linked List:  
 
 ![dll](https://user-images.githubusercontent.com/71040750/165485910-f6b11f0a-020b-4f44-94f1-831a7834dc23.png)
 
-3. Stack
+3. Stack:
 
 ![stack](https://user-images.githubusercontent.com/71040750/165727650-ccacca45-0863-4b91-86b5-5ba9b320e4f7.png)
 
@@ -56,9 +73,36 @@ vi. Evaluation of Prefix and Postfix expressions using stack
 
 vii. Infix to Postfix using stack
 
-4. Queue 
-5. Tree
-6. Graphs
+4. Queue: 
+
+![queue](https://user-images.githubusercontent.com/71040750/165829742-d0492b99-8a4f-4a87-a22e-a4b7509d4489.png)
+
+i. Array implementation of Queue
+
+ii. Linked List implementation of Queue
+
+5. Tree:
+
+i. Implementation of Binary search tree ( BST )
+
+ii. Finding min and max element in a binary search tree
+
+iii.
+
+iv.
+
+v. 
+
+vi.
+
+6. Graphs:
+
+i. Graph Representation - Edge List
+
+ii. Graph Representation - Adjacency Matrix
+
+iii. Graph Representation - Adjacency List
+
 
 Reference: https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 
@@ -234,6 +278,9 @@ III. Friend function : Another class can have access to private class members us
   
          queue <string> q;
   
+  
+![diff](https://user-images.githubusercontent.com/71040750/165829532-559c7b66-0a62-4a70-b82b-7ad5ec99c052.png)
+
   ### Sorting: 
   
                 Introsort: Quick sort + Heap sort + Insertion sort  
