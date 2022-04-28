@@ -27,6 +27,21 @@ vii. Reverse a linked list using recursion
 ![dll](https://user-images.githubusercontent.com/71040750/165485910-f6b11f0a-020b-4f44-94f1-831a7834dc23.png)
 
 3. Stack
+
+![stack](https://user-images.githubusercontent.com/71040750/165727650-ccacca45-0863-4b91-86b5-5ba9b320e4f7.png)
+
+i. Array implementation of stacks
+
+ii. Linked List implementation of stacks
+
+iii. Reverse a string or linked list using stack.
+
+iv. Check for balanced parentheses using stack
+
+v. Evaluation of Prefix and Postfix expressions using stack
+
+vi. Infix to Postfix using stack
+
 4. Queue 
 5. Tree
 6. Graphs
