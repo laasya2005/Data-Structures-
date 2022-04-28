@@ -50,6 +50,10 @@ v. Check for balanced parentheses using stack
 
 vi. Evaluation of Prefix and Postfix expressions using stack
 
+![infix](https://user-images.githubusercontent.com/71040750/165811619-96bc46af-063d-4232-8ecf-f8f27c299254.png)
+
+![order](https://user-images.githubusercontent.com/71040750/165811654-dfd086c0-80ee-49b1-84a5-7d5a18f156a6.png)
+
 vii. Infix to Postfix using stack
 
 4. Queue 
