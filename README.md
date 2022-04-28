@@ -42,7 +42,9 @@ ii. Linked List implementation of stacks
 
 iii. Reverse a string using stack.
 
-vi. Reverse a string using Linked list
+vi. Reverse a Linked list
+
+![rll](https://user-images.githubusercontent.com/71040750/165767678-d7223e3b-c7c5-4a49-a9db-b09081eeddf9.png)
 
 v. Check for balanced parentheses using stack
 
