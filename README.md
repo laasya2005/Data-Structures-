@@ -32,7 +32,8 @@ vii. Reverse a linked list using recursion
 
 i. Array implementation of stacks
 
-![stac](https://user-images.githubusercontent.com/71040750/165738750-d05c3d3f-4c6f-4e53-8868-ef6c069baf12.png)
+![stak](https://user-images.githubusercontent.com/71040750/165752195-50aba06a-7d60-4fc2-926a-94e16b39fe44.png)
+
 
 ii. Linked List implementation of stacks
 
