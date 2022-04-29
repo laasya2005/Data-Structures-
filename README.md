@@ -71,7 +71,16 @@ vi. Evaluation of Prefix and Postfix expressions using stack
 
 ![order](https://user-images.githubusercontent.com/71040750/165811654-dfd086c0-80ee-49b1-84a5-7d5a18f156a6.png)
 
+![eva](https://user-images.githubusercontent.com/71040750/165888778-f00f0576-8a26-4a39-b9e9-8532ffdebc13.png)
+
+![hiiiii](https://user-images.githubusercontent.com/71040750/165890056-ec0fd310-0350-442a-9b18-b45e5cd381da.png)
+
+
+
 vii. Infix to Postfix using stack
+
+![infix](https://user-images.githubusercontent.com/71040750/165891186-2104cf0f-9d24-4319-b535-75df55d3b4eb.png)
+
 
 4. Queue: 
 
