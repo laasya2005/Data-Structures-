@@ -88,6 +88,8 @@ vii. Infix to Postfix using stack
 
 i. Array implementation of Queue
 
+![array](https://user-images.githubusercontent.com/71040750/165896874-b314530a-91af-48ee-a84a-f68ef42e582f.png)
+
 ii. Linked List implementation of Queue
 
 5. Tree:
