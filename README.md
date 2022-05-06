@@ -92,6 +92,8 @@ i. Array implementation of Queue
 
 ii. Linked List implementation of Queue
 
+![qqqqq](https://user-images.githubusercontent.com/71040750/167086916-cfab2456-6bef-4989-863d-91342efdf07c.png)
+
 5. Tree:
 
 i. Implementation of Binary search tree ( BST )
