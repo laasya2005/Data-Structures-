@@ -98,7 +98,7 @@ ii. Linked List implementation of Queue
 
 i. Implementation of Binary search tree ( BST )
 
-![bst](https://user-images.githubusercontent.com/71040750/167119048-eda79139-5d0a-460c-af8a-ec53dba8cecd.png)
+![ddd](https://user-images.githubusercontent.com/71040750/167120576-406b3380-1f27-470e-bc2d-90c1731bbe06.png)
 
 ii. Finding min and max element in a binary search tree
 
