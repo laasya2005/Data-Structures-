@@ -100,6 +100,9 @@ i. Implementation of Binary search tree ( BST )
 
 ![ddd](https://user-images.githubusercontent.com/71040750/167120576-406b3380-1f27-470e-bc2d-90c1731bbe06.png)
 
+![bst](https://user-images.githubusercontent.com/71040750/167238221-1d399912-17ec-4536-a21a-1d96b498752d.png)
+
+
 ii. Finding min and max element in a binary search tree
 
 iii.
