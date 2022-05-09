@@ -123,6 +123,12 @@ vi. Inorder Successor in a binary search tree
 
 6. Graphs:
 
+![graphs](https://user-images.githubusercontent.com/71040750/167462880-b2fd096e-477d-4876-9aae-738cfcc506fc.png)
+
+![aa](https://user-images.githubusercontent.com/71040750/167463246-542a8346-eb63-4490-8f5b-ecc7d4105e6d.png)
+
+![ll](https://user-images.githubusercontent.com/71040750/167463809-34ca5e10-ba62-4deb-ad84-9220589cfbbe.png)
+
 i. Graph Representation - Edge List
 
 ii. Graph Representation - Adjacency Matrix
