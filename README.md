@@ -105,13 +105,21 @@ i. Implementation of Binary search tree ( BST )
 
 ii. Finding min and max element in a binary search tree
 
-iii.
+iii. Finding the height of a binary tree
 
-iv.
+![ss](https://user-images.githubusercontent.com/71040750/167444415-1fc4cd7f-ab34-4c0b-8f93-aa2f2f2c55b7.png)
 
-v. 
+iv. Binary tree traversal - breadth-first and depth-first 
 
-vi.
+![bst](https://user-images.githubusercontent.com/71040750/167448308-22d964a9-e1f1-4422-ae1a-a79331c74f40.png)
+
+### Breadth-first 
+
+![BFS](https://user-images.githubusercontent.com/71040750/167451167-3ab0da8e-e63d-44b6-9ef1-33632425da9c.png)
+
+v. Deleting a node from Binary Search Tree
+
+vi. Inorder Successor in a binary search tree
 
 6. Graphs:
 
